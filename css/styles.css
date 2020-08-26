@@ -1,0 +1,7 @@
+body {
+  background-color: #f7b97b;
+}
+
+#too-short, #small, #large {
+  display: none;
+}
